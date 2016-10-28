@@ -9,4 +9,4 @@ A web application that searches for a given query.
 ##Contact me:
 - <amankumayu@gmail.com>
 
-## licensing [MIT] (https://github.com/aman-kumayu/wikipedia_viewer/license)
+## licensing [MIT] (https://github.com/aman-kumayu/wikipedia_viewer/blob/master/LICENSE)
